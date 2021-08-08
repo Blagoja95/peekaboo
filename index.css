@@ -37,3 +37,13 @@ body{
 .footer a:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width : 400px) {
+
+    .monkey {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        width: 312x;
+        height: 312px;
+    }
+}
