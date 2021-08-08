@@ -12,7 +12,8 @@ body{
 }
 
 .monkey {
-    margin-top: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
     width: 512x;
     height: 512px;
 }
