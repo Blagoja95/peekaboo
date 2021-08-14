@@ -51,6 +51,11 @@ body{
         width: 312x;
         height: 312px;
     }
+
+    .monkey:active {
+        user-select: none;
+        
+    }
     
     .footer {
         position: absolute;
