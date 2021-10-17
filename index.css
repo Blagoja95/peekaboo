@@ -50,12 +50,10 @@ body{
         margin-bottom: 5%;
         width: 312x;
         height: 312px;
+        outline: 0;
     }
 
-    .monkey:button{
-        -webkit-tap-highlight-color: rgba(0,0,0,0);
-    }
-    
+    .
     .footer {
         position: absolute;
         bottom: 0;
